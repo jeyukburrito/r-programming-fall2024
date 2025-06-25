@@ -1,1 +1,2 @@
-# auto-battler-simulator-r
+# r-programming-2nd-semester
+
